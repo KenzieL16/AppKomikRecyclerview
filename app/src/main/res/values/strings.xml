@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">komikapp</string>
+    <string name="komik_name">Nama</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="list">List</string>
+    <string name="grid">Simple Mode</string>
+    <string name="with_cardview">Card View Mode</string>
+    <string name="favorite">Favourite</string>
+    <string name="addlibrary">Add to Library</string>
+</resources>
