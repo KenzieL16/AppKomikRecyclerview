@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
 
         rvKomik = findViewById(R.id.rv_komik)
         rvKomik.setHasFixedSize(true)
-
         list.addAll(KomikData.listData)
 
         showRecyclerGrid()
