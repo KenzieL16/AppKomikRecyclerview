@@ -1,6 +1,13 @@
 # AppKomikRecyclerview
 Ananda Bagas Kenzie Liviano XI RPL 3 / 02
 RecyclerView Komik
+
+
+
+https://user-images.githubusercontent.com/105412597/229010102-99f32854-0e77-49c8-adde-a4b01d5c5d85.mp4
+
+
+
 ![WhatsApp Image 2023-03-02 at 11 52 59](https://user-images.githubusercontent.com/105412597/222335535-be30e983-18b2-4497-8a07-8db16273ff20.jpeg)
 
 
